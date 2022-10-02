@@ -17,7 +17,7 @@
 # 1. Use ROC curves to compare the performance of the decision trees
 # to the performance of
 # a.	kNN
-# b.	Naïve Bayes
+# b.	NaÃ¯ve Bayes
 # c.  Decision Trees
 # ------------------------------------------------------------------------------
 
